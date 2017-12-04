@@ -24,3 +24,4 @@ I followed this tutorial: https://www.youtube.com/watch?v=VWaVPhQqeyA
 If you find a bug, please open an issue [here](https://github.com/ckane30691/ethereum-rock-paper-scissors/issues).
 
 Technologies Used:
+* Solidity
